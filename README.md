@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/docvertin.png" alt="Docverin logo" width="720" style="background-color:white;" />
+  <img src="docs/docverin.png" alt="Docverin logo" width="720" style="background-color:white;" />
 </p>
 
 <h1 align="center">Docverin</h1>
